@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dongle:wght@700&family=Heebo&family=Maven+Pro:wght@600&family=Nunito+Sans&family=Open+Sans:wght@500;800&family=Poppins&family=Roboto:wght@700&family=Rock+Salt&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Rock Salt', cursive;
+    font-weight: bold;
+}
+
+.navbar-nav .buttons a {
+    font-weight: 18px;
+}
+
+.imgg img {
+    padding: 50px;
+}
+
+footer h6 {
+    color: grey;
+}
+
+.footer-social a {
+
+    padding: 10px;
+}
+
+.footer-social {
+    margin-top: 10px;
+}
+.footer-wrappr 
+{
+    background-color: black;
+    color:white;
+    padding-top: 30px;
+}
